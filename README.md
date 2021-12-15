@@ -9,12 +9,6 @@ To run the application locally :
 4) run "npm install"
 5) run "npm start"
 
-GitHub Url:
-https://github.com/SEPT-Team-9/team9-project.git
-
-CircleCi Pipeline Url:
-https://app.circleci.com/pipelines/github/SEPT-Team-9
-
 ## PayPal Mock Account
 * First name: John
 * Last name: Doe
